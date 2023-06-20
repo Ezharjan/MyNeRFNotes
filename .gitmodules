@@ -1,0 +1,27 @@
+[submodule "awesome-NeRF"]
+	path = awesome-NeRF
+	url = https://github.com/awesome-NeRF/awesome-NeRF.git
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = https://github.com/NVlabs/instant-ngp.git
+[submodule "multinerf"]
+	path = multinerf
+	url = https://github.com/google-research/multinerf.git
+[submodule "nerf"]
+	path = nerf
+	url = https://github.com/bmild/nerf.git
+[submodule "nerf-factory"]
+	path = nerf-factory
+	url = https://github.com/kakaobrain/nerf-factory.git
+[submodule "nerf-pytorch"]
+	path = nerf-pytorch
+	url = https://github.com/yenchenlin/nerf-pytorch.git
+[submodule "nerfstudio"]
+	path = nerfstudio
+	url = https://github.com/nerfstudio-project/nerfstudio.git
+[submodule "pixel-nerf"]
+	path = pixel-nerf
+	url = https://github.com/sxyu/pixel-nerf.git
+[submodule "stable-dreamfusion"]
+	path = stable-dreamfusion
+	url = https://github.com/ashawkey/stable-dreamfusion.git
